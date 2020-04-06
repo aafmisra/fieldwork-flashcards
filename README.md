@@ -2,7 +2,7 @@
 
 ## About This Game
 
-![Fieldwork Flashcards landing page](https://i.imgur.com/0CUAdce.png)
+![Fieldwork Flashcards landing page](https://i.imgur.com/jX8gs9h.png)
 
 Ever since I can remember, my first love has been animals. As a kid I wanted to be like Jane Goodall or Steve Irwin. I followed this passion right through undergrad, and earned a degree in Wildlife & Conservation Biology. Throughout my time in that program, my professors and mentors emphasized the importance of local natural resources and native species. An expectation in every wildlife course; whether ornithology, herpetology, mammalogy, or entomology, was to memorize the clade and scientific name of every species, and to be able to identify that species in the field.
 
